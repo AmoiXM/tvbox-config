@@ -1,3 +1,4 @@
+XXX,#genre#
 AdultIPTV.net Anal (720p),http://cdn.adultiptv.net/anal.m3u8
 AdultIPTV.net Asian (720p),http://cdn.adultiptv.net/asian.m3u8
 AdultIPTV.net Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
@@ -60,7 +61,6 @@ Private TV HD (720p),http://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 Redlight HD (720p),http://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 Silk (1080p) [Geo-blocked],http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
 Visit-X TV (720p),http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-XXX Cartoons (520p),http://144.76.58.245:2307/cartoon/index.m3u8
 东热01,http://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
 东热02,http://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
 东热03,http://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
@@ -76,3 +76,6 @@ XXX Cartoons (520p),http://144.76.58.245:2307/cartoon/index.m3u8
 松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
 玩美台,http://live.redtraffic.xyz:80/pov.m3u8
 限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+
+Animation;XXX,#genre#
+XXX Cartoons (520p),http://144.76.58.245:2307/cartoon/index.m3u8
